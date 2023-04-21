@@ -26,6 +26,32 @@ I use [Void Linux](https://voidlinux.org/) as my OS and [Sway](https://swaywm.or
 - [Perplexity](https://www.perplexity.ai/): Conversational AI search engine that uses ChatGPT as a back-end while including references for search results
 
 
-<!-- online versions of physical board games -->
+<!-- # Random Sentence Generator -->
+<!---->
+<!-- ```{r, include=FALSE} -->
+<!-- verb_list = c("accepts", "achieves", "acts", "adds", "admires", "adopts", "affects", "agrees", "alarms", "allows", "amazes", "analyzes", "announces", "appears", "applies", "appreciates", "approaches", "argues", "arranges", "asks", "asserts", "assists", "assumes", "attacks", "attempts", "attracts", "avoids", "awards", "bakes", "balances", "barks", "bases", "bats", "befriends", "believes", "belongs", "bites", "blames", "boasts", "boils", "borrows", "bounces", "breaks", "breathes", "brings", "brushes", "builds", "burns", "buys", "calculates", "calls", "calms", "captures", "carries", "causes", "celebrates", "challenges", "changes", "charges", "chases", "checks", "chooses", "circles", "claims", "claps", "cleans", "climbs", "closes", "coaches", "collects", "colors", "combines", "comforts", "commands", "communicates", "compares", "competes", "complains", "completes", "concentrates", "concerns", "confirms", "confuses", "connects", "considers", "consists", "contacts", "contemplates", "continues", "contributes", "controls", "cooks", "coordinates", "corrects", "counts", "covers", "cracks", "creates", "cries", "cuts") -->
+<!---->
+<!-- noun_list = c("person", "place", "thing", "time", "day", "year", "way", "thing", "man", "woman", "child", "people", "life", "world", "school", "state", "family", "student", "group", "country", "problem", "hand", "part", "place", "case", "week", "company", "system", "program", "question", "work", "government", "number", "night", "point", "home", "water", "room", "mother", "area", "money", "story", "fact", "month", "lot", "right", "study", "book", "eye", "job", "word", "business", "issue", "side", "kind", "head", "house", "service", "friend", "father", "power", "hour", "game", "line", "end", "member", "law", "car", "city", "community", "name", "president", "team", "minute", "idea", "kid", "body", "information", "back", "parent", "face", "others", "level", "office", "door", "health", "person", "art", "war", "history", "party", "result", "change", "morning", "reason", "research", "girl", "guy", "moment", "air") -->
+<!---->
+<!-- adjective_list = c("happy", "sad", "angry", "excited", "bored", "interesting", "funny", "scary", "beautiful", "ugly", "big", "small", "tall", "short", "long", "wide", "narrow", "heavy", "light", "fast", "slow", "hot", "cold", "warm", "cool", "dry", "wet", "clean", "dirty", "bright", "dark", "loud", "quiet", "hard", "soft", "strong", "weak", "expensive", "cheap", "rich", "poor", "good", "bad", "right", "wrong", "easy", "difficult", "simple", "complex", "delicious", "tasteless", "fresh", "stale", "healthy", "unhealthy", "safe", "dangerous", "brave", "cowardly", "honest", "dishonest", "generous", "stingy", "polite", "rude", "kind", "mean", "friendly", "unfriendly", "happy", "sad", "tired", "energetic", "busy", "lazy", "shy", "confident", "proud", "humble", "smart", "stupid", "creative", "dull", "interesting", "boring", "beautiful", "ugly", "clean", "dirty", "bright", "dark", "loud", "quiet", "hard", "soft", "strong", "weak", "expensive", "cheap", "rich") -->
+<!-- ``` -->
+<!---->
+<!-- ```{r} -->
+<!-- sentence = paste( -->
+<!--   "Your random sentence is:", -->
+<!--   "The",  -->
+<!--   sample(adjective_list, 1), -->
+<!--   sample(noun_list, 1), -->
+<!--   sample(verb_list, 1), -->
+<!--   "\n") -->
+<!---->
+<!-- cat(sentence) -->
+<!-- ``` -->
+<!---->
 
-<!-- how to be happy (move, sleep well, eat well) and satisfied in life (ask for what you want) TODO -->
+
+<!--
+# My Home
+
+TODO insert Colorado map using R
+-->
