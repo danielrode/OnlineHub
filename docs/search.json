@@ -2,22 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quartoDemoLive",
+    "title": "Daniel Rode",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Resources\n\nShareDrop.io: Web-based P2P file sharing utility\ncroc: Cross-platform CLI file sharing utility\nPerplexity: Conversational AI search engine that uses ChatGPT as a back-end while including references for search results"
+  },
+  {
+    "objectID": "img2img.html",
+    "href": "img2img.html",
+    "title": "Daniel Rode",
+    "section": "",
+    "text": "First result: \nThis looks interesting, but is certainly not a tornado, and there is no farm house in sight. I clicked the Run button to generate again:\n\nThere is a house now, but no tornado. Getting the output you desire requires a combination of rerunning the generation (each time it is run, a random seed is chosen), trying different sketches, and rewording your prompt.\n\n\n\nMy Setup\nI use Void Linux as my OS and Sway as my window manager. Colemak is my preferred keyboard layout; it balances familiarity with Qwerty, ergonomic typing, and still works nicely for programming and typing CLI commands. Neovim with LazyVim is my primary code editor / IDE.\n\n\nResources\n\nShareDrop.io: Web-based P2P file sharing utility\ncroc: Cross-platform CLI file sharing utility\nPerplexity: Conversational AI search engine that uses ChatGPT as a back-end while including references for search results"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Daniel Rode",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blog",
-    "section": "",
-    "text": "Test, 1 2 3."
+    "text": "My Setup\nI use Void Linux as my OS and Sway as my window manager. Colemak is my preferred keyboard layout; it balances familiarity with Qwerty, ergonomic typing, and still works nicely for programming and typing CLI commands. Neovim with LazyVim is my primary code editor / IDE.\n\n\nResources\n\nShareDrop.io: Web-based P2P file sharing utility\ncroc: Cross-platform CLI file sharing utility\nPerplexity: Conversational AI search engine that uses ChatGPT as a back-end while including references for search results"
   }
 ]

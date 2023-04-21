@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This website was created as my final project for my Environmental Data Science Applications class (ESS 523A) at Colorado State University in March of 2023. It was built using R and Quarto.

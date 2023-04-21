@@ -1,25 +1,31 @@
 ---
-title: "quartoDemoLive"
-image: climate.png
-about: 
+title: "Daniel Rode"
+image: res/climate.png
+about:
   template: trestles
   image-shape: rounded
   image-width: 15em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/konadog/
-    - text: Twitter
-      href: https://twitter.com/konadog
-    - text: GitHub
-      href: https://github.com/konadog
+      href: https://www.linkedin.com/in/danieltrode/
+    - text: Code
+      href: https://codeberg.org/bluebiobyte
     - text: Email
-      href: mailto:konadog@colostate.edu
+      href: mailto:daniel.rode@colostate.edu
 ---
 
-This is a Quarto website.
+# My Setup
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I use [Void Linux](https://voidlinux.org/) as my OS and [Sway](https://swaywm.org/) as my window manager. [Colemak](https://colemak.com/) is my preferred keyboard layout; it balances familiarity with Qwerty, ergonomic typing, and still works nicely for programming and typing CLI commands. [Neovim](https://neovim.io/) with [LazyVim](https://www.lazyvim.org/) is my primary code editor / IDE.
 
-```{r}
-1 + 1
-```
+
+# Resources
+
+- [ShareDrop.io](https://www.sharedrop.io/): Web-based P2P file sharing utility
+- [croc](https://github.com/schollz/croc): Cross-platform CLI file sharing utility
+- [Perplexity](https://www.perplexity.ai/): Conversational AI search engine that uses ChatGPT as a back-end while including references for search results
+
+
+<!-- online versions of physical board games -->
+
+<!-- how to be happy (move, sleep well, eat well) and satisfied in life (ask for what you want) TODO -->

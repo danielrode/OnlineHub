@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoDemoLive"
+  title: "Daniel Rode"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - blog.qmd
+      - img2img.qmd
 
 format:
   html:

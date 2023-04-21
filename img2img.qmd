@@ -1,0 +1,20 @@
+---
+title: "Guide: Turn a Sketch Into a Photo"
+---
+
+1. Draw a sketch on paper or using software like MS Paint. Make sure the width:height ratio is 1:1. Example:
+![](res/tornadoSketch.png)
+2. Go to a [Stable Diffusion image to image](https://dezgo.com/image2image){target="_blank"} portal.
+<!-- `{target="_blank"}` tells the browser to open link in new tab -->
+3. Select your desired model and upload your sketch.
+4. Type in your prompt. Example: "Tornado destroying farm house".
+5. Click the green *Run* button.
+
+First result:
+![](res/tornadoDestroyingFarm1.png)
+
+This looks interesting, but is certainly not a tornado, and there is no farm house in sight. I clicked the *Run* button to generate again:
+
+![](res/tornadoDestroyingFarm2.png)
+
+There is a house now, but no tornado. Getting the output you desire requires a combination of rerunning the generation (each time it is run, a random seed is chosen), trying different sketches, and rewording your prompt.
