@@ -3,7 +3,7 @@
 
 1. Edit the website content/settings (.qmd files, etc.)
   - But never touch anything under the `docs/` directory!
-2. Run: `conda run --name base quarto render`
+2. Run (in this directory): `conda run --name base quarto render`
 3. Git commit
 4. Git push
   - Visit <https://github.com/danieltd/OnlineHub/actions> to see GitHub website render status
